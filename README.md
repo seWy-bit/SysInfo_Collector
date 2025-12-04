@@ -6,13 +6,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://en.wikipedia.org/wiki/Cross-platform_software)
 
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Release%20Candidate-success" alt="Статус">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Версия">
   <img src="https://img.shields.io/badge/Tests-Passing-brightgreen" alt="Тесты">
 </div>
-
----
 
 ## 📋 Оглавление
 
